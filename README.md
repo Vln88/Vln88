@@ -1,6 +1,6 @@
 head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=4.0">
+    <meta name="viewport" content="width=device-width, initial-scale=10">
     <title>Profile</title>
 </head>
 <body>
