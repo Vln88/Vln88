@@ -4,7 +4,7 @@
 <div align="center">
     <img src="https://github.com/Vln88/Vln88/assets/128435171/3f60e260-6201-4c0a-9080-bb6d1f2f823f" alt="Coming">
 </div>
-![Discord Shield](hhtps://discordapp.com/users/559444278347169792/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/users/[559444278347169792]/widget.png?style=shield)
 
 
 
