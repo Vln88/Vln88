@@ -11,5 +11,5 @@
 - 🌱 I’m currently learning programming skills
 - 🤔 I just want  to be a normal programmer 
 - 💬 I can speak spanish/french/english
-- ⚡ Fun fact: I started my career making scripts for a browser game called bomb party
+- ⚡ Fun fact: I started making scripts for a browser game called bomb party
 
