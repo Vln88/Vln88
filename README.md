@@ -5,9 +5,8 @@
 
 ## About me
 
-- 🔭 I'm half spanish half french
-- 🌱 I’m currently learning programming skills
-- 🤔 I just want  to be a normal programmer 
-- 💬 I can speak spanish/french/english
-- ⚡ Fun fact: I started making scripts for a browser game called bomb party
+* 🛠️ I like building things, experimenting, and learning how systems work
+* 🔍 Always curious about what’s happening under the hood
+* 💬 I speak Spanish, French, and English
+* ⚡ Fun fact: I got into programming by making scripts for a browser game called BombParty
 
