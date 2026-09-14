@@ -1,6 +1,4 @@
-<div align="center">
-  <h1 align="center"> Hey, I'm Vln88 😎</h1>
-</div>
+
 <div align="center">
     <img src="./github_banner.png" alt="Banner">
 </div>
